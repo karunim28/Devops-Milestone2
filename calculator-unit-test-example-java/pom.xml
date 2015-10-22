@@ -28,7 +28,7 @@
     <issueManagement>
         <url>https://github.com/stokito/calculator-unit-test-example-java/issues</url>
     </issueManagement>
-
+    
 	<reporting>
 	    <plugins>
         	<plugin>
